@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.addaeef7.css",
+    "main.js": "/static/js/main.a3128b3b.js",
+    "static/js/787.d6cb1aba.chunk.js": "/static/js/787.d6cb1aba.chunk.js",
+    "static/media/NORDSTROM.png": "/static/media/NORDSTROM.9f2260761265a6c655c0.png",
+    "static/media/profile.jpg": "/static/media/profile.b736fdcec5ab993efc12.jpg",
+    "static/media/EVERHOUR.png": "/static/media/EVERHOUR.b51cfd9f5d74f959db1e.png",
+    "static/media/BathAndBody.png": "/static/media/BathAndBody.83d6e89da37440670ce0.png",
+    "static/media/logo-2.png": "/static/media/logo-2.0767b383a2cd429f09cb.png",
+    "index.html": "/index.html",
+    "main.addaeef7.css.map": "/static/css/main.addaeef7.css.map",
+    "main.a3128b3b.js.map": "/static/js/main.a3128b3b.js.map",
+    "787.d6cb1aba.chunk.js.map": "/static/js/787.d6cb1aba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.addaeef7.css",
+    "static/js/main.a3128b3b.js"
+  ]
+}
